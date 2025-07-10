@@ -73,3 +73,4 @@ Use Yearly Trends: Plan inventory using yearly sales trends to match customer de
 This dashboard provides Blinkit with an analytical tool to monitor sales KPIs, track outlet performance, and gain deep insights into product and location strategies. The dynamic filters and interactive visuals offer a user-friendly and informative experience, helping the business make smarter, data-driven decisions.
 
 ## DASHBOARD LINK - https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-advanced-on-Blinkit/blob/main/blinkit%20project.pbix
+ -  https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-advanced-on-Blinkit/blob/main/BLINKIT%20SCREENSHOT.jpg
