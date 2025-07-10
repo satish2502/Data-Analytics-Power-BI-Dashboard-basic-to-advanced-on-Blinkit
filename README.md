@@ -7,6 +7,7 @@ Item type, fat content, and item count
 Outlet type, location type, and size
 Sales figures and average ratings
 Establishment year and visibility index
+
 link - https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-advanced-on-Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx
 
 ## ❓ Business Questions Solved 
@@ -71,4 +72,4 @@ Use Yearly Trends: Plan inventory using yearly sales trends to match customer de
 ## 🚀 Conclusion
 This dashboard provides Blinkit with an analytical tool to monitor sales KPIs, track outlet performance, and gain deep insights into product and location strategies. The dynamic filters and interactive visuals offer a user-friendly and informative experience, helping the business make smarter, data-driven decisions.
 
-## DASHBOARD LINK -
+## DASHBOARD LINK - https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-advanced-on-Blinkit/blob/main/blinkit%20project.pbix
