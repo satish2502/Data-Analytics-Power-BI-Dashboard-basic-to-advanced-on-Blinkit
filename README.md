@@ -8,7 +8,8 @@ Outlet type, location type, and size
 Sales figures and average ratings
 Establishment year and visibility index
 link - https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-advanced-on-Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx
-# ❓ Business Questions Solved (Short)
+
+# ❓ Business Questions Solved 
 - What are the total and average sales across all outlets?
 
 - Which item types generate the highest average sales?
@@ -20,3 +21,18 @@ link - https://github.com/satish2502/Data-Analytics-Power-BI-Dashboard-basic-to-
 - How do sales vary by establishment year?
 
 - What is the sales trend by outlet location type?
+
+### ⚙️ Process 
+
+1. **Data Collection**
+   * Imported retail sales CSV data containing item, outlet, and sales details.
+2. **Data Cleaning (Power Query)**
+   * Handled nulls, standardized formats, and transformed columns.
+3. **Data Modeling**
+   * Created relationships between item and outlet fields for effective filtering.
+4. **DAX Measures**
+   * Calculated KPIs like total sales, average sales, item count, and ratings.
+5. **Dashboard Design**
+   * Built interactive visuals (bar, donut, line charts) with slicers for dynamic analysis.
+6. **Insight Generation**
+   * Analyzed sales trends, top-performing outlets, and product categories.
